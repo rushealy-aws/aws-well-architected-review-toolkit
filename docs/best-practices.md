@@ -474,4 +474,4 @@ aws sts assume-role \
 
 ---
 
-**Next**: See the [Troubleshooting Guide](troubleshooting.md) for solutions to common issues and challenges.
+**Next**: See the [Troubleshooting Guide](troubleshooting.md) for solutions to common issues and challenges, or return to the [main README](../README.md) for quick start instructions.
